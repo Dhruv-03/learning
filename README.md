@@ -1,2 +1,3 @@
 # javascript-learn
-all the codes used to learn javascript
+all the codes used to learn javascript,python and other upcoming languages
+
